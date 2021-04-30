@@ -1,0 +1,44 @@
+@charset 'UTF-8';
+
+@import url('main.css') screen;
+@import url('header.css') screen;
+@import url('content.css') screen;
+@import url('footer.css') screen;
+@import url('tablet.css') screen;
+
+@font-face {
+  font-family: 'Carlito';
+  src: url('fonts/Carlito.woff') format('woff'),
+       url('fonts/Carlito.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+   src: url('fonts/Montserrat.woff') format('woff'),
+        url('fonts/Montserrat.woff2') format('woff2');
+}
+
+@font-face {
+font-family: 'FuturaBookCTT';
+  src: url('fonts/FuturaBookCTT.woff') format('woff'),
+       url('fonts/FuturaBookCTT.woff2') format('woff2');
+} 
+
+@font-face {
+  font-family: 'a_CooperBlackNr';
+  src: url('fonts/a_CooperBlackNr.woff') format('woff'),
+       url('fonts/a_CooperBlackNr.woff2') format('woff2');
+  font-weight: bold; 
+}
+
+@font-face {
+  font-family: 'Archia';
+  src: url('fonts/Archia.woff') format('woff'),
+       url('fonts/Archia.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'DecorCyrillic';
+  src: url('fonts/DecorCyrillic.woff') format('woff'),
+       url('fonts/DecorCyrillic.woff2') format('woff2');
+}
